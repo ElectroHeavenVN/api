@@ -1,0 +1,7 @@
+[
+  {
+    "version_name": "0.0.1-beta1",
+    "version_code": 1,
+    "changelog": "- Thêm menu cài đặt\r\n- Thêm chức năng quản lý máy chủ tuỳ chỉnh\r\n- Thêm chức năng quản lý proxy"
+  }
+]
