@@ -1,0 +1,21 @@
+{
+  "app_id": 1474036629202272326,
+  "details": "AutoPro v{0}",
+  "details_url": "https://dungpham.com.vn/tools/101",
+  "state": "Cracked by ElectroHeavenVN",
+  "state_url": "https://t.me/electroheavenvn",
+  "type": 0,
+  "status_display": 2,
+  "assets": {
+    "large_image_key": "icon_autopro",
+    "large_image_text": "AutoPro v{0}",
+    "small_image_key": "",
+    "small_image_text": ""
+  },
+  "buttons": [
+    {
+      "label": "Free Download",
+      "url": "https://discord.gg/ekMDKCa5jQ"
+    }
+  ]
+}
