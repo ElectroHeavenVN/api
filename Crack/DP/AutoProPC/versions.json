@@ -1,5 +1,10 @@
 [
   {
+    "version_name": "1.0.0",
+    "version_code": 2,
+    "changelog": "- Sửa lỗi không mở được QLTK\r\n- Sửa lỗi không di chuyển được cửa sổ QLTK\r\n- Thêm chức năng nhấn đúp vào tài khoản để đăng nhập\r\n- Thêm chức năng vá game vĩnh viễn, không cần trình tiêm DLL\r\n- Thêm chức năng đổi tiêu đề cửa sổ game\r\nBắt đầu từ phiên bản ổn định 1.0.0, bạn phải xác minh tài khoản Discord của mình bằng cách uỷ quyền ứng dụng OAuth khi mở QLTK lần đầu. Bạn phải ở trong máy chủ Discord chính thức của ElectroHeavenVN và đã xác minh thành viên để có thể sử dụng QLTK."
+  },
+  {
     "version_name": "0.0.1-beta1",
     "version_code": 1,
     "changelog": "- Thêm menu cài đặt\r\n- Thêm chức năng quản lý máy chủ tuỳ chỉnh\r\n- Thêm chức năng quản lý proxy"
