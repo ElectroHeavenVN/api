@@ -8,9 +8,7 @@
   "status_display": 2,
   "assets": {
     "large_image_key": "icon_autopro",
-    "large_image_text": "AutoPro v{0}",
-    "small_image_key": "",
-    "small_image_text": ""
+    "large_image_text": "AutoPro v{0}"
   },
   "buttons": [
     {
