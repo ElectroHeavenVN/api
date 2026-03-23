@@ -1,5 +1,10 @@
 [
   {
+    "version_name": "1.0.2",
+    "version_code": 4,
+    "changelog": "- Sửa lỗi xác thực tài khoản Discord\r\nBắt đầu từ phiên bản ổn định 1.0.0, bạn phải xác minh tài khoản Discord của mình bằng cách uỷ quyền ứng dụng OAuth khi mở QLTK lần đầu. Bạn phải ở trong máy chủ Discord chính thức của ElectroHeavenVN và đã xác minh thành viên để có thể sử dụng QLTK."
+  },
+  {
     "version_name": "1.0.1",
     "version_code": 3,
     "changelog": "- Thêm nút menu phụ\r\n- Thêm logo splash\r\n- Sửa chức năng xác minh tài khoản Discord\r\nBắt đầu từ phiên bản ổn định 1.0.0, bạn phải xác minh tài khoản Discord của mình bằng cách uỷ quyền ứng dụng OAuth khi mở QLTK lần đầu. Bạn phải ở trong máy chủ Discord chính thức của ElectroHeavenVN và đã xác minh thành viên để có thể sử dụng QLTK."
